@@ -1,0 +1,4 @@
+size = N 				--> sets the dim of the simulater to (N, N).
+speed = 10      (deafult)	--> sets the speed of the simulation. The highe the number the faster.
+spread = False  (deafult)	--> can be set to 'high' or 'low' to generate a random starting seed.
+mode = 'random' (default)	--> sets the distibution of the sand generation. Can also be set to 'corners' or 'center'.
